@@ -2,7 +2,7 @@
 ***
 ![](https://komarev.com/ghpvc/?username=RYOG-3)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RYOG-3&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RYOG-3&theme=2077)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RYOG-3&title=Joined2020,Commit,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
